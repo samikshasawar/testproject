@@ -1,0 +1,323 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    color: #242f51;
+    font-size: 16px;
+    font-weight: 400;
+}
+#navbarNav ul.navbar-nav {
+    align-items: end;
+}
+.navbar a.navbar-brand {
+    color: #feaa25;
+    font-size: 32px;
+    display: inline-flex;
+    font-weight: 800;
+}
+.navbar-brand p {
+    color: #242f51;
+    font-size: 32px;
+    padding: 0;
+    font-weight: 800;
+}
+#navbarNav .navbar-nav li.nav-item{
+    color: #242f51;
+}
+.navbar-nav a.nav-link {
+    font-size: 16px;
+    color: #242f51!important;
+    margin-right: 10px;
+    font-weight: 600;
+}
+.navbar-nav button.btn.btn-primary {
+    margin-left: 20px;
+}
+button.btn.btn-primary {
+    background-color: #2500f9;
+    border-radius: 40px;
+    padding: 10px 28px;
+    font-weight: 600;
+}
+#testimonial .row {
+    align-items: center;
+}
+.col-half-offset{
+    margin-left:4.166666667%
+}
+#banner h1{
+    color: #242f51;
+    font-size: 42px;
+    margin-top: 8px;
+    font-weight: 800;
+    line-height: 1.3;
+}
+#banner-div a {
+    font-weight: 600;
+    text-decoration: none;
+    margin-left: 15px;
+}
+#footer{
+    background-color: #09142e;
+    padding: 110px 50px 80px;
+    width: 100%;
+}
+.feature-list img{
+    height: 65px;
+}
+.list-item1,.list-item2,.list-item3 {
+    display: inline-flex;
+    padding: 25px 0;
+}
+.list-desc {
+    padding: 0 45px;
+}
+.list-desc p {
+    margin-bottom: 5px;
+}
+#testimonial {
+    padding: 70px;
+}
+#testimonial p{
+    font-weight: 400;
+    color: #242f51;
+    font-size: 16px;  
+    font-weight: 600;
+}
+.feature-list h2 {
+    font-weight: bolder;
+    color: #242f51;
+    font-size: 36px;
+}
+.list-desc p.desc-head{
+    font-weight: 600;
+}
+.list-item1 p.desc-head {
+    color: #f55767;
+}
+.list-item2 p.desc-head {
+    color: #2563ff;
+}
+.list-item3 p.desc-head {
+    color: #40975f;
+}
+.list-img1 {
+    background-color: rgba(245, 87, 103, 0.2);
+    border-radius: 60px;
+    padding: 21px;
+}
+.list-img2 {
+    background-color: rgba(37, 99, 255, 0.2);
+    border-radius: 60px;
+    padding: 21px;
+}
+.list-img3 {
+    background-color: rgba(64, 151, 95, 0.2);
+    border-radius: 60px;
+    padding: 21px;
+}
+.feature-img {
+    background-image: url(../media/smart-search-bg.png);
+    background-repeat: no-repeat;
+    background-size: 87%;
+    background-position: left center;
+}
+#features-sec .img-fluid {
+    max-width: 100%;
+    height: 84%;
+}
+#banner{
+    background-image: url(../media/skyline.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-color: #fdfdfe;
+}
+#banner-div, #banner-info {
+    background-image: url(../media/hero-vector.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#banner-div{
+    padding-left: 148px !important;
+    padding-top: 110px !important;
+}
+#banner-img{
+    width: 300px;
+    padding-bottom: 42px;
+}
+ #hero-vector{
+    width: 100px;
+}
+.foot-head {
+    color: #feaa25;
+    font-weight: 800;
+    font-size: 24px;
+    text-align: center;
+}
+.foot-head p {
+    color: #fff;
+    font-weight: 800;
+    font-size: 24px;
+    display: inline-block;
+}
+#footer ul.footer-list {
+    text-align: center;
+}
+.footer-list li.foot-item {
+    list-style-type: none;
+    display: inline-block;
+}
+.foot-item a.foot-link {
+    text-decoration: none;
+    color: #fff;
+}
+.foot-item a.foot-link {
+    text-decoration: none;
+    color: #fff;
+    font-size: 16px;
+    padding: 0 12px;
+}
+.fa-brands.fa-twitter{
+    color: #fff;
+}
+.social-links img {
+    width: 24px;
+    display: inline-block;
+    margin: 0 8px;
+}
+.social-links {
+    text-align: center;
+}
+section#navabar {
+    background-color: #fdfdfe;
+}
+#banner-div span {
+    background-color: #e2eaed;
+    border-radius: 34px;
+    padding: 4px 12px 3px 0px;
+}
+#banner-div .choice img {
+    background-color: #feaa25;
+    padding: 5px 7px;
+    border-radius: 22px;
+    margin-bottom: 3px;
+}
+#banner-div span.editor {
+    background-color: #e2eaed;
+    border-radius: 34px;
+    padding: 4px 40px 3px 0px;
+    font-weight: 600;
+}
+#features-sec .row {
+    margin-top: 90px;
+}
+.carousel-item img.d-block.w-100 {
+    width: 94% !important;
+    height: 430px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    text-align: center;
+    border-radius: 14px;
+}
+.carousel-caption h5 {
+    font-size: 25px;
+    color: black;
+    font-weight: 700;
+}
+.carousel-item p {
+    font-size: 18px;
+    color: black;
+}
+
+/*responsive css*/
+@media screen and (min-width: 1024px) {
+    div#company-3 {
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+}
+@media screen and (max-width: 1024px) {
+    #company-4, #company-5 {
+        margin-top: 38px;
+    }
+     #testimonial .col-half-offset {
+        margin-left: 11.166667%;
+    }
+    #testimonial .row {
+        margin-left: 110px;
+    }
+}
+@media screen and (max-width: 991px) {
+    #testimonial .col-half-offset {
+        margin-left: 17.166667%;
+    }
+    #testimonial .row {
+        margin-left: 0;
+    }
+    #banner-div {
+        padding-left: 3rem !important;
+    }
+}
+@media screen and (max-width: 768px) {
+    #testimonial .col-md-2 {
+        margin-left: 0;
+        margin-bottom: 18px;
+        flex: unset;
+        width: 101%;
+    }
+    #banner-div {
+        padding-top: 1rem !important;
+    }
+    #banner-img {
+        margin: 0 76px;
+    }
+}
+@media screen and (max-width: 480px) {
+    #testimonial {
+        padding: 90px 38px;
+    }
+    #banner-img {
+        margin: 0;
+    }
+    .list-item1, .list-item2, .list-item3 {
+        display: inline-block;
+    }
+    .list-img1,.list-img2,.list-img3 {
+        width: 110px;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+    #features-sec .img-fluid {
+        height: 100%;
+    }
+}
+@media screen and (max-width: 420px) {
+    #banner-div span.editor{
+        padding: 4px 12px 3px 0px;
+    }
+    #banner-div .choice img {
+        padding: 2px 4px;
+    }
+    #banner-div span {
+        padding: 3px 5px 3px 0px;
+        font-size: 12px;
+    }
+    #banner-div a {
+        margin-left: 6px;
+        font-size: 12px;
+    }
+    #banner-div button.btn.btn-primary {
+        padding: 10px 14px;
+        font-size: 12px;
+    }
+    .foot-item a.foot-link {
+        padding: 0 42px;
+    }
+    #footer ul.footer-list {
+        padding-left: 0;
+    }
+}
+
+
+
+
